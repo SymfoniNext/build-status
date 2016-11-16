@@ -40,7 +40,7 @@ Assuming you have some form of computer connected to a screen which is also runn
 $ docker run -d --name status-dashboard -p 3009:80 symfoni/build-status:latest
 ```
 
-Then open up a web browser and point it to localhsot:3009.  Maybe even in fullscreen mode.
+Then open up a web browser and point it to localhost:3009.  Maybe even in fullscreen mode.
 
 ---
 
